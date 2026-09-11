@@ -1,0 +1,1 @@
+Este projeto foi desenvolvido com auxílio de ferramentas de inteligência artificial para pesquisa, revisão e suporte no desenvolvimento do código. A implementação e validação das funcionalidades foram realizadas pela autora.
